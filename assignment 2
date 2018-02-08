@@ -1,0 +1,26 @@
+// justin bieber
+undefined
+var firstName = "justin"
+undefined
+var middleName = "justin"
+undefined
+var lastName = "bieber"
+undefined
+var fullName = firstName + middleName + lastName
+undefined
+fulname
+VM1282:1 Uncaught ReferenceError: fulname is not defined
+    at <anonymous>:1:1
+(anonymous) @ VM1282:1
+fullName
+“justin justin bieber"
+var firstLetter = "J"
+undefined
+var firstLetter = firstName.slice(0,1)
+undefined
+var middleLetter = middleName.slice(0,1)
+undefined
+var lastLetter = lastName.slice(0,1)
+undefined
+monogram = firstLetter + middleLetter +lastLetter
+"JJB"
